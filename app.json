@@ -1,13 +1,13 @@
 {
-  "name": "HM-LEECH-ZONE-BOT",
+  "name": "Wiesz o co chodzi",
   "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram.",
   "logo": "https://telegra.ph/file/9c54af2d6f60f215ab0ec.png",
     "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/HM-MODS/HM-LEECH-ZONE-BOT",
+  "repository": "https://github.com/zulnet/okzumer",
   "success_url": "https://t.me/hmrequestbot",
-  "website": "https://github.com/HM-MODS/HM-LEECH-ZONE-BOT",
+  "website": "https://github.com/zulnet/okzumer",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
